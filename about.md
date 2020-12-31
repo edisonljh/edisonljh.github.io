@@ -26,4 +26,8 @@ titles:
 key: page-about
 ---
 
-Edison is a Software Engineer.
+Hi, I'm Edison. I'm currently the Head of Engineering at Aqilliz, where I lead a group of talented engineers to build adtech solutions. Before that, I worked in Zilliqa where I helped to launch the mainnet. I've also built the first custody solution and security token platform for Zilliqa under the HG Exchange project.
+
+I build stuffs related to blockchain, distributed systems and cryptography.
+
+My Linkedin for the full description of work I've done: https://www.linkedin.com/in/edisonljh/
